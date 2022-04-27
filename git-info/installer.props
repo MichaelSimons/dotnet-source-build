@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <GitCommitCount>22365</GitCommitCount>
-    <GitCommitHash>dd563d08402a6728d7576ca122e24561c811a4a2</GitCommitHash>
+    <GitCommitCount>22449</GitCommitCount>
+    <GitCommitHash>cf9d4539e5ddce03b652ef821cdfab42e601a0bc</GitCommitHash>
     <IsStable>true</IsStable>
     <OfficialBuildId>20220427.1</OfficialBuildId>
-    <OutputPackageVersion>6.0.103</OutputPackageVersion>
+    <OutputPackageVersion>6.0.104</OutputPackageVersion>
     <PreReleaseVersionLabel></PreReleaseVersionLabel>
   </PropertyGroup>
 </Project>
